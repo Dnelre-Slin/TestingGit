@@ -3,4 +3,5 @@ Added another line
 Forgot this line! Done.
 Yet some more
 
+This will cause a merge conflict.
 This too will cause conflict.
