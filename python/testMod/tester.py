@@ -1,4 +1,9 @@
-import ..hmdl.someMod as someMod
+#import sys
+#sys.path.append('..')
+#import hmdl.someMod as someMod
+import testmod3
 
-someMod.printHW();
+print("Woot")
+
+#someMod.printHW();
 #print("Hello World!");
